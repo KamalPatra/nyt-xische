@@ -22,13 +22,11 @@ Make sure you have the following installed on your machine:
 
 2. Install dependencies:
 
-   ```npm install
-   ```
+   ```npm install```
 
 4. Running the Code
    To start the development server with hot module replacement (HMR):
-   ```npm run dev
-   ```
+   ```npm run dev```
 
 5. Open your browser and navigate to http://localhost:5173 to see the application running.
 
@@ -37,15 +35,13 @@ Make sure you have the following installed on your machine:
 
 7. Unit and Integration Tests
    To run unit and integration tests with Vitest:
-   ```npm run test
-   ```
+   ```npm run test```
 
 8. End-to-End Tests
    To run end-to-end tests with Cypress:
 
    Open the Cypress Test Runner:
-   ```npx cypress open
-   ```
+   ```npx cypress open```
 
 Currently, two official plugins are available:
 
